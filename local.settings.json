@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsServiceBus": "Endpoint=sb://new-asd.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=0+fGp29HdIi8AGb7nzbwRmuOoVkRr+nDsBO5LQQEKAA=",
+    "SendGridApiKey": "SG.izLAH4vGSX2xil3ZglG3ug.NmHUqMwPb6dXb8dCmmx5khqNd5GdC6wYPhzGg3UlZkc"
+  }
+}
